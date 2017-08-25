@@ -9,3 +9,4 @@ cyan
 purple
 magenta
 chartusece
+sesame street
